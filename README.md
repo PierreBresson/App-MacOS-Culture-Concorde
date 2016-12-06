@@ -34,4 +34,9 @@ Discover incredible songs, carefully selected, crafted in a minimalist design.  
 
 
 ###Do you want to help?
-Yes, PR are welcome :)
+PR are welcome :)
+
+
+
+###Wanna test the app?
+Download app on the website : http://cultureconcorde.com
