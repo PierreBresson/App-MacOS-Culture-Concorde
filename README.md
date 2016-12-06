@@ -5,7 +5,7 @@ Discover incredible songs, carefully selected, crafted in a minimalist design.  
 
 
 ##Preview ✈️
-![alt tag](https://github.com/PierreBresson/App-MacOS-Culture-Concorde/blob/master/Website/img/mock.png)
+![alt tag](https://github.com/PierreBresson/App-MacOS-Culture-Concorde/blob/master/mac%20app.jpg)
 
 
 
