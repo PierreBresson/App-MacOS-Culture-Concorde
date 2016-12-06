@@ -1,0 +1,6 @@
+framework module PopStatusItem {
+  umbrella header "PopStatusItem-umbrella.h"
+
+  export *
+  module * { export * }
+}

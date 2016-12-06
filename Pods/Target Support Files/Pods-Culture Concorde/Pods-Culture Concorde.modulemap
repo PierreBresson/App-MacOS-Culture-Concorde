@@ -1,0 +1,6 @@
+framework module Pods_Culture_Concorde {
+  umbrella header "Pods-Culture Concorde-umbrella.h"
+
+  export *
+  module * { export * }
+}
